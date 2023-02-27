@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\enriq\source\repos\Tangram\Tangram\Source.cpp(191,5): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  Tangram.vcxproj -> C:\Users\enriq\source\repos\Tangram\x64\Debug\Tangram.exe
